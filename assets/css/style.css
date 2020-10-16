@@ -1,0 +1,33 @@
+* {
+    font-family: 'Crimson Text', serif;
+}
+
+.bg-light {
+    background-color: #545863;
+}
+
+.nav-link {
+    color: red;
+}
+
+.btn-full {
+    width: 100%;
+}
+
+.borderless td,
+.borderless th {
+    border: none;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: cadetblue;
+    width: 100%;
+    text-align: center;
+}
+
+#footertxt {
+    color: white;
+    font-weight: bold;
+}
